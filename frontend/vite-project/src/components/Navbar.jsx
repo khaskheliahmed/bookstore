@@ -15,7 +15,7 @@ const Navbar = () => {
         </li>
             </>)
   return (
-    <div className='max-w-screen-2xl conatiner mx-auto md:px-20 px-8 bg-white"'>
+    <div className='max-w-screen-2xl conatiner mx-auto md:px-20 px-8 bg-white'>
       <>
       <div className=''>
         <div className="navbar bg-white">
